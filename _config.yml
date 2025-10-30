@@ -31,7 +31,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
-source:
-  - policy
 include:
   - index.markdown
+exclude:
+  - examples/
+  
