@@ -1,0 +1,28 @@
+title: Privacy Policy — Arm AI Chat
+source: .
+theme: minima
+include:
+  - index.md
+exclude:
+  - .gitignore
+  - .nojekyll
+  - .github/
+  - scripts/
+  - models/
+  - samples/
+  - app/
+  - build/
+  - docs/
+  - gradle/
+  - LICENSE
+  - README.md
+  - "*.iml"
+  - "*.gradle"
+  - "*.sh"
+  - "*.log"
+  - "*.apk"
+  - "*.kt"
+  - "*.java"
+  - "*.zip"
+  - "*.png"
+  - "*.jpg"
