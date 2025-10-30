@@ -1,7 +1,7 @@
-title: Privacy Policy
+title: Arm AI Chat
 email: han.yin@arm.com
 description: >-
-  Privacy Policy for "Arm AI Chat" application
+ On-Device LLM Chat, Right in Your Palm 
 # TODO-han.yin: update the URL to be Google Play's app listing instead!
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: "" # the subpath of your site, e.g. /blog
@@ -14,6 +14,7 @@ plugins:
 
 include:
   - index.markdown
+  - privacy.markdown
 exclude:
   - "*.md"
   - "**/*.md"

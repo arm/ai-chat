@@ -1,12 +1,8 @@
 ---
 layout: home
 permalink: /
+title: About
+date: 2025-10-30
 ---
 
-This app does **not** collect, store, or transmit any personal or sensitive user data. 
-All core functionality, including LLM inference and chat history, runs entirely on the user's device. No user inputs or results are sent to external servers. 
-
-However, the app optionally provides a model download feature from [Hugging Face](https://huggingface.co), which allows users to retrieve preselected GGUF models. These downloads occur over the public internet and may be visible to the Hugging Face service infrastructure. Please refer to Hugging Face's own [privacy policy](https://huggingface.co/privacy) for further details. 
-
-Users are **not required** to use the model download feature. If preferred, users may operate the app in a fully offline mode by manually obtaining GGUF model files and importing them from the device’s local storage. 
- 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nibh nunc, pulvinar quis erat et, pretium elementum augue. Integer maximus commodo nulla, a facilisis leo ullamcorper sit amet. Aenean sodales nec velit et viverra. Morbi hendrerit magna et sapien aliquet, eget vestibulum metus laoreet. Suspendisse ut suscipit justo. Quisque euismod, nunc quis porta suscipit, lacus lectus mollis tortor, non finibus nunc est quis lectus. Curabitur nisl tellus, pulvinar id venenatis id, finibus pulvinar mi. Phasellus sollicitudin sagittis ultrices. Aliquam condimentum, quam eu sagittis sodales, elit tellus blandit velit, a sodales eros leo nec mi. Integer interdum eleifend lectus mollis imperdiet. Nulla mattis libero quis mauris ultrices posuere. Morbi sed facilisis tortor. Ut pellentesque felis sed commodo elementum. Vivamus at tortor et massa condimentum aliquet. Praesent volutpat quis est vitae tempus. Donec luctus sapien et velit blandit, sit amet elementum tellus faucibus.
