@@ -152,3 +152,14 @@ poetry.toml
 # IDE
 *.code-workspace
 .windsurf/
+
+
+# AI Chat Jekyll
+.DS_Store
+.github/.DS_Store
+.idea/
+404.html
+Gemfile
+_posts/
+Gemfile.lock
+
